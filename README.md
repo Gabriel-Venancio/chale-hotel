@@ -6,7 +6,9 @@
 ![Badge](https://img.shields.io/github/stars/Gabriel-Venancio/chale-hotele)
 ![Badge](https://img.shields.io/github/license/Gabriel-Venancio/chale-hotel)
 
-
+<h1 align="center">
+  <img alt="Chalé Hotel" title="#Chalé Hotel" src="./screenshot/chale-hotel.png" />
+</h1>
 
 ### :dart: Objetivo
 
