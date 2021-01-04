@@ -3,7 +3,7 @@
 
 ![Badge](https://img.shields.io/github/issues/Gabriel-Venancio/chale-hotel)
 ![Badge](https://img.shields.io/github/forks/Gabriel-Venancio/chale-hotel)
-![Badge](https://img.shields.io/github/stars/Gabriel-Venancio/chale-hotele)
+![Badge](https://img.shields.io/github/stars/Gabriel-Venancio/chale-hotel)
 ![Badge](https://img.shields.io/github/license/Gabriel-Venancio/chale-hotel)
 
 <h1 align="center">
